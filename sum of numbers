@@ -1,0 +1,24 @@
+import java.util.Scanner;
+public class sumOfNumbers2 {
+   public static void main(String[] args) {
+   
+      Scanner tinashe = new Scanner(System.in);
+     
+      // declaration of variables
+      
+      int dataOne,dataTwo,dataThree,dataFour;
+     
+      dataOne = (-5 + 8 * 6);
+      dataTwo = (55 + 9)% 9;
+      dataThree = (20 + -3 * 5/8);
+      dataFour = (5 + 15/3 * 2 - 8 %3);
+     
+      System.out.println(dataOne);
+      System.out.println(dataTwo);
+      System.out.println(dataThree);
+      System.out.println(dataFour);
+      
+     
+       
+   }
+}       
